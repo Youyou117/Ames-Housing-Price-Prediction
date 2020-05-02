@@ -1,4 +1,4 @@
-# Airbnb Housing Price Prediction
+# Ames Housing Price Prediction
 #### Background:
 
 Ask a home buyer to describe their dream house, and they will probably come up with many criterias, based on which, we want to help the home buyers to predict their dream house price.
